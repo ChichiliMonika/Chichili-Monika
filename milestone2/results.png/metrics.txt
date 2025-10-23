@@ -1,0 +1,9 @@
+Random Forest:
+MAE: 0.44, RMSE: 1.53, R2: 0.94
+
+XGBoost:
+MAE: 0.46, RMSE: 1.10, R2: 0.97
+
+Linear Regression:
+MAE: 4.43, RMSE: 5.61, R2: 0.26
+
